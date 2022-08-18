@@ -53,5 +53,5 @@ So this remainded a habit and I was lucky enough to pass through into the 2021 c
 
 I understand that certain countries have it easier than others. To me however, this more so felt like an exercise in commitment than outright skill. I do not have a background in competitive math nor have I been bitten by a spider or sing like Mike Ross. 
 
-Given how low my odds were, I appreciate this opportunity even more and hope to apply blind faith in other areas of my life. You never truly know how far you can go if you show up everyday with the right attitude.
+Given how low my odds were, I appreciate this opportunity even more and hope to apply blind faith in other areas of my life. You never truly know how far you can go if you keep picking away the 
 
