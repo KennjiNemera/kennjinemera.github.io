@@ -21,12 +21,12 @@ timezone: Africa/Johannesburg
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Kenna Geleta                          # the main title
+title: Words of Waffle                          # the main title
 
 tagline: A little bit of this and little bit of that   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  An archive of learning log, questions and self-diagolue.
+  An archive of learning log, questions and self-dialogue.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Kenna Geleta
+  name: null
   email: kennanemera.web@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://i.giphy.com/media/eNddcoQXhnMurlHMdh/giphy.webp"
+avatar: "https://media0.giphy.com/media/26BRqkvsYzYVCicne/giphy.gif"
 
 # boolean type, the global switch for ToC in posts.
 toc: true

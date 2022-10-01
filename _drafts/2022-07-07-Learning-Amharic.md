@@ -8,8 +8,19 @@ mermaid: true
 
 ### Learning Log
 
-- [ ] Expressing possession
-- [ ] Expressing 'This' & 'That'
+_Chapter 1: Selamnta_
+
+- [x] Personal Pronouns
+- [ ] Simple and informal greetings
+- [ ] Simple possessive phrases
+- [x] The verb 'be'
+
+_Chapter 2: betimirti bet_
+
+- [x] Simple Questions
+- [ ] Plural of nouns
+- [ ] Demonstratives
+- [ ] Prepostions
 
 # Background
 My mother tongue is Afaan Oromo and would say I can hear and speak it well enough to express myself with other native speakers. Most kids in the Ethiopian diaspora, regardless of background, have probably encounted Amharic more times than they can count. I will admit that I have had more than ample time to pick this language up. For years, I've heard it over the phone, in songs, movies and with family / friends. It dawned on me that I've heard most essential words and phrases but just haven't learnt sentence construction and understood what all those words up there meant. 
@@ -28,7 +39,11 @@ Well, the most obvious reason being that I already have a knowledge base, second
 
 Evidently, this is not meant to be followed as a complete guide to the language. The notes made below are entirely based on my weaknesses and personal bias. It is a cheat sheet at best.
 
-## Pronouns
+# Selamta
+
+---
+
+## Personal Pronouns
 
 | I         | Ine       |
 | You (m)   | Ante      |
@@ -38,6 +53,51 @@ Evidently, this is not meant to be followed as a complete guide to the language.
 | He        | Issu      |
 | She       | Iswa      |
 | They      | Irswo     | 
+
+## The verb 'be'
+
+| I am | nen |
+| You are (m) | neh |
+| You are (f) | nesh |
+| You are (p) | naccuh |
+| We are | nen |
+| He is | new |
+| She is | necc / nat |
+| They are | naccaw  | 
+
+## Simple Greetings
+
+_Refer to the omniglot website_
+
+|.|.|
+|.|.|
+|.|.|
+
+# Betimirti bet
+
+## Question Words
+
+|English    |Amharic    |Example    |
+|:---------:|:---------:|:---------:|
+|What|Min|Min ifelegalehu?|
+|Where|Yet|Makkina yet noew?|
+|Who|Man|Ya sew man noew?|
+|Why|Lemin|Kenna lemin almat'tam?|
+|When|Wedet||
+|How much|Sint noew|makkina sint new?|
+
+## Plural of nouns
+|Add '-occ' to nouns that end either in a vowel or consonent (remove the final vowel if applicable)|eg. betocc, tamariocc|
+
+## This and That
+| English   | Amharic   |
+|:----------|:----------:|
+|that (masc.)   |ya |
+|that (fem.)    |yacch  |
+|those  |innazziya  |
+|this (masc.)   |yih    |
+|this (fem.)    |yicch  |
+|these  |innazzih       |
 
 # Verb Conjugation
 
@@ -68,8 +128,9 @@ Simple. 'Iye' + Past Tense form of verb + 'Now'
 | Issu | He is going | Hede | Iyehede new | Yihedal |
 
 ## Expressing 'This' & 'That'
-|English    |Amharic    |
-|:---------:|:---------:|
+
+| English   | Amharic   |
+|:----------|:----------:|
 |that (masc.)   |ya |
 |that (fem.)    |yacch  |
 |those  |innazziya  |
@@ -110,21 +171,23 @@ A few examples below ⬇⬇⬇:
 |English    |Amharic    |Example    |
 |:---------:|:---------:|:---------:|
 |What|Min|Min ifelegalehu?|
-|Where|Yet|Makkina yet new?|
-|Who|Man|Ya sew man new?|
+|Where|Yet|Makkina yet noew?|
+|Who|Man|Ya sew man noew?|
 |Why|Lemin|Kenna lemin almat'tam?|
 |When|Wedet||
-|How much|Sint now|makkina sint new?|
+|How much|Sint noew|makkina sint new?|
 
 # General Vocabulary
 
 ## Nouns
+
 |English    |Amharic    |
 |:---------:|:---------:|
 |Restaurant |Migib bet  |
-|World |Alem|
+|World      |Alem       |
 
 ## Expression / Adjectives
+
 |English    |Amharic    |
 |:---------:|:---------:|
 |Many, Alot | Bizu |
@@ -134,16 +197,19 @@ A few examples below ⬇⬇⬇:
 |Nearby area | Akkababi|
 
 ## Time
+
 |English    |Amharic    |
 |:---------:|:---------:|
 
 ## Instructions
+
 |English    |Amharic    |
 |:---------:|:---------:|
 |Left   | Gra |
 |Right  | K'an |
 
 ## Prepositions
+
 |English    |Amharic    |
 |:---------:|:---------:|
 |in, at, by | be- |
@@ -152,6 +218,7 @@ A few examples below ⬇⬇⬇:
 
 
 ## Verb Phrases
+
 |English    |Amharic    |
 |:---------:|:---------:|
 |Let's Go| Innihid|
@@ -160,6 +227,7 @@ A few examples below ⬇⬇⬇:
 
 
 ## General Speech
+
 |English    |Amharic    |
 |:---------:|:---------:|
 |Or|Wayiss|
