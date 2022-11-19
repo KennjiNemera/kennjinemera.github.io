@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://media0.giphy.com/media/26BRqkvsYzYVCicne/giphy.gif"
+avatar: "https://media2.giphy.com/media/nVtZLPzg8Yz23NcStg/giphy.gif?cid=ecf05e47wo66fkzmzd4i4ms67rnpuwd63iwj2taweywhzghp&rid=giphy.gif&ct=g"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
